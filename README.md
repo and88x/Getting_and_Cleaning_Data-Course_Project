@@ -6,7 +6,7 @@ The purpose of this project is to collect, work with, and clean a data set. The 
 * dplyr
 
 ### The `run_analysis.R` file
-This file perform the follow tasks:
+This file performs the follow tasks:
 
 * Merges the training and the test sets from the [**Human Activity Recognition Using Smartphones Data Set**](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
