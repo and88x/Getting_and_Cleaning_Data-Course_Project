@@ -1,17 +1,3 @@
----
-title: "Codebook"
-output:
-  html_document:
-    toc: true
-    toc_depth: 4
-    toc_float: true
-    code_folding: 'hide'
-    self_contained: true
-  pdf_document:
-    toc: yes
-    toc_depth: 4
-    latex_engine: xelatex
----
 
 Author: Andres Fernando Garcia
 
